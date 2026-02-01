@@ -4,7 +4,7 @@
 
 By leveraging the raw performance of C++ and the portability of Wasm, this project achieves near-native frame rates in the browser, demonstrating efficient shared memory management between the JavaScript frontend and the C++ backend.
 
-*(Replace this line with an actual screenshot of your running project)*
+![alt text](image.png)
 
 ## 🚀 Key Features
 
