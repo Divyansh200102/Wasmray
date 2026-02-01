@@ -1,0 +1,7 @@
+# .gitignore
+*.o
+*.obj
+.DS_Store
+.vscode/
+emsdk/
+node_modules/
